@@ -1,2 +1,3 @@
 some text from remote
 new line added from local
+additional changes from remote
